@@ -1,2 +1,2 @@
 # Study
-Some .md files AI whipped up for studying.
+Some `.md` files AI whipped up for studying.
