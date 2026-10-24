@@ -1,4 +1,4 @@
-1. Setting Up Specific Tools - Complete Guides
+## Setting Up Specific Tools - Complete Guides
 A. Setting Up CAPE Sandbox (Comprehensive Automated Analysis)
 CAPE is one of the most powerful open-source malware sandboxes with automatic unpacking and configuration extraction.
 System Requirements:
@@ -7,7 +7,7 @@ System Requirements:
 - Recommended: 16GB RAM, 8 cores, 250GB SSD
 - Nested virtualization enabled (if running in VM)
 Installation Steps:
-1. Prepare Host System:
+## Prepare Host System:
 bash# Update system
 sudo apt update && sudo apt upgrade -y
 
